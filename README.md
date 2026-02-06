@@ -14,8 +14,6 @@ O projeto foi criado com foco em **boas práticas de front-end**, organização 
 ## 🛠️ Tecnologias Utilizadas
 
 - ⚛️ React
-- 💅 CSS3
-- 🌐 API da NASA
 - 📦 Vite
 - 🔧 JavaScript (ES6+)
 
