@@ -8,8 +8,7 @@ O projeto foi criado com foco em **boas práticas de front-end**, organização 
 
 ## ✨ Demonstração
 
-🔗 **Deploy:** https://raiego.github.io/space-app-react/
-
+🔗 **Deploy:** [https://space-app-react-xi.vercel.app]
 ---
 
 ## 🛠️ Tecnologias Utilizadas
