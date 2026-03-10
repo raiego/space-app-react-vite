@@ -6,8 +6,6 @@ This project was created with a focus on **front-end best practices**, clean cod
 
 ---
 
-## ✨ Demo
-
 🔗 **Live Demo:** https://space-app-react-xi.vercel.app
 
 ---
