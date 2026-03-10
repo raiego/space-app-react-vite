@@ -1,67 +1,83 @@
 # 🚀 Space App React
 
-Aplicação web desenvolvida em **React** que consome uma API pública da NASA para exibir informações, imagens e conteúdos relacionados ao espaço de forma moderna, rápida e responsiva.
+A web application built with **React** that consumes a public **NASA API** to display space-related images, information, and content in a modern, fast, and responsive interface.
 
-O projeto foi criado com foco em **boas práticas de front-end**, organização de código, performance e experiência do usuário.
+This project was created with a focus on **front-end best practices**, clean code organization, performance, and user experience.
 
 ---
 
-## ✨ Demonstração
+## ✨ Demo
 
-🔗 **Deploy:** [https://space-app-react-xi.vercel.app]
+🔗 **Live Demo:** https://space-app-react-xi.vercel.app
+
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-- ⚛️ React
-- 📦 Vite
+- ⚛️ React  
+- 📦 Vite  
 - 🔧 JavaScript (ES6+)
 
 ---
 
-## 📸 Funcionalidades
+## 📸 Features
 
-- 🔭 Consumo de dados da API da NASA
-- 🖼️ Exibição dinâmica de imagens e informações espaciais
-- ⚡ Interface rápida e responsiva
-- 📱 Layout adaptado para desktop e mobile
-- 🧠 Código organizado e componentizado
+- 🔭 Fetches data from the NASA API  
+- 🖼️ Dynamic display of space images and information  
+- ⚡ Fast and responsive interface  
+- 📱 Responsive layout for desktop and mobile  
+- 🧠 Organized and component-based code structure
 
 ---
 
-## 🚀 Como Rodar o Projeto Localmente
+## 🚀 Running the Project Locally
 
-### 1️⃣ Clone o repositório
-```
+### 1️⃣ Clone the repository
 git clone https://github.com/raiego/space-app-react.git
-```
-2️⃣ Acesse a pasta do projeto
+
+
+### 2️⃣ Navigate to the project folder
+
 cd space-app-react
 
-3️⃣ Instale as dependências
+
+### 3️⃣ Install dependencies
+
 npm install
 
-4️⃣ Inicie o servidor de desenvolvimento
+
+### 4️⃣ Start the development server
+
 npm run dev
 
 
-A aplicação estará disponível em:
+The application will be available at:
 
 http://localhost:5173
 
-🧪 Build para Produção
+---
+
+## 🧪 Production Build
+
+
 npm run build
 
-📚 Aprendizados
 
-Neste projeto, foram praticados conceitos como:
+---
 
-Componentização no React
+## 📚 What I Learned
 
-Consumo de APIs REST
+In this project I practiced concepts such as:
 
-Organização de pastas e estrutura de projeto
+- React component architecture  
+- Consuming REST APIs  
+- Project folder structure and organization  
+- Responsive design  
+- Performance and front-end best practices
 
-Responsividade
+## 🔮 Future Improvements
 
-Performance e boas práticas
+- Add search functionality
+- Implement pagination for API results
+- Improve loading states and error handling
+- Add unit tests
